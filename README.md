@@ -1,16 +1,14 @@
-## Hi there 👋
+## Anshika Singh
 
-<!--
-**AnshikaSingh0011/AnshikaSingh0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer |  Backend-focused 
 
-Here are some ideas to get you started:
+.Learning .Building .Contributing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently :
+-> Building Full-stack application
+-> Learning Backend & System Design
+-> Exploring Open-source
+-> Contributing to real-world projects
+
+
+
