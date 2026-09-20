@@ -1,14 +1,6 @@
-## Anshika Singh
-
-### Full-Stack Developer |  Backend-focused 
-
-.Learning .Building .Contributing
-
-### Currently :
-- Building Full-stack application
-- Learning Backend & System Design
-- Exploring Open-source
-- Contributing to real-world projects
-
+<div align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+</div>
 
 
